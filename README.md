@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErikHells
 - 👀 Robotics is my passion. I'm working as CTO at Robotdalen, Sweden.
-- 🌱 I’m currently learning. Yep, learing all the time!
+- 🌱 I’m currently learning. Yep, learning all the time!
 - 💞️ I’m looking to collaborate on cool projects in the area of industrial robotics.
 - 📫 How to reach me. Contact me on X: @ErikHells
 
